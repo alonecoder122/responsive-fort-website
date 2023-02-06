@@ -1,0 +1,8 @@
+.bimg{
+
+    background-image : url("images/fort1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+}
